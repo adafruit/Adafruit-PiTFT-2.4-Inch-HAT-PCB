@@ -6,7 +6,7 @@ Click here to purchase one from the Adafruit shop</a>
 PCB files for the Adafruit PiTFT 2.4 Inch HAT. Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/2455
 
-## DESCRIPTION
+### DESCRIPTION
 Is this not the cutest little display for the Raspberry Pi? It features a 2.4" display with 320x240 16-bit color pixels and a resistive touch overlay. The HAT uses the high speed SPI interface on the Pi and can use the mini display as a console, X window port, displaying images or video etc. Best of all it plugs right in on top!
 
 It's designed to fit nicely onto the Pi Model Zero, A+, B+, Pi 2, Pi 3 - any Pi with a 2x20 connector.
